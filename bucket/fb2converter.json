@@ -14,7 +14,12 @@
     },
     "license": "GPL-3.0 license",
     "checkver": "github",
-    "bin": ["fb2converter\\kindlegen.exe", "fb2converter\\fb2c.exe", "fb2epub\\fb2epub.exe", "fb2mobi\\fb2mobi.exe"],
+    "bin": [
+        "fb2converter\\kindlegen.exe",
+        "fb2converter\\fb2c.exe",
+        "fb2epub\\fb2epub.exe",
+        "fb2mobi\\fb2mobi.exe"
+    ],
     "autoupdate": {
         "architecture": {
             "64bit": {

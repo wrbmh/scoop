@@ -1,15 +1,15 @@
 {
-    "version": "1.67.1",
+    "version": "1.68.0",
     "description": "FB2 converter to EPUB2, KEPUB, MOBI 7/8, AZW3",
     "homepage": "https://github.com/rupor-github/fb2converter",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rupor-github/fb2converter/releases/download/v1.67.1/fb2c_win64.zip",
-            "hash": "7A4B2ECAB455EBE47D17A1BDE27AE8CFB779D18484B3CC6FB53933C9929C9D8D"
+            "url": "https://github.com/rupor-github/fb2converter/releases/download/v1.68.0/fb2c_win64.zip",
+            "hash": "c7549a375a05c32340b3fd48c0845653d1d415fac817fc910362382d08ae129c"
         },
         "32bit": {
-            "url": "https://github.com/rupor-github/fb2converter/releases/download/v1.67.1/fb2c_win32.zip",
-            "hash": "0AE3E63E8336DC81B8CA536453B8872A888E9FE649CEC251E84628A3D3AE7119"
+            "url": "https://github.com/rupor-github/fb2converter/releases/download/v1.68.0/fb2c_win32.zip",
+            "hash": "1f4d94526a71f2b6d84a7efacf41eda13f31c7fb5661c180feaf721839e92b0b"
         }
     },
     "license": "GPL-3.0 license",
